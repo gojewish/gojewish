@@ -3,11 +3,75 @@
 #   Documentation: https://wowchemy.com/docs/guide/language/
 
 # Default language
+et:
+  languageCode: et
+  contentDir: content/et
+  title: goJewish
+  params:
+    description: GoJewish tugevdab Eesti Juudi Kogukonda, eriti COVID-19 ajal, pakkudes humanitaarabi. Selle missiooni saavutamiseks kogume annetusi, kaasame vabatahtlikke, teeme koostööd partneritega ja kasutame ressursse.
+  menu:
+    main:
+      - name: Meie missioon
+        url: '#about'
+        weight: 10
+      - name: Programmid
+        url: '#programs'
+        weight: 20
+      - name: Blogi
+        url: '#posts'
+        weight: 30
+      - name: Kontakt
+        url: '#contact'
+        weight: 40
+      - name: Anneta
+        url: 'et/donate'
+        weight: 50
+ru:
+  languageCode: ru
+  contentDir: content/ru
+  title: goJewish
+  params:
+    description: GoJewish укрепляет Еврейскую Общину Эстонии, особенно во время COVID-19, обеспечивая гуманитарную поддержку. Мы собираем пожертвования, привлекаем волонтеров, сотрудничаем с партнерами и используем ресурсы для достижения этой цели.
+  menu:  
+    main:
+      - name: Наша миссия
+        url: '#about'
+        weight: 10
+      - name: Программы
+        url: '#programs'
+        weight: 20
+      - name: Блог
+        url: '#posts'
+        weight: 30
+      - name: Контакты
+        url: '#contact'
+        weight: 40
+      - name: Пожертвуй
+        url: 'ru/donate/'
+        weight: 50        
 en:
-  languageCode: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
-
+  languageCode: en
+  contentDir: content/en
+  title: goJewish
+  params:
+    description: GoJewish strengthens Estonian Jewish Community, especially during COVID-19, providing humanitarian support. We collect donations, engage volunteers, collaborate with partners and deploy resources to achieve this mission.
+  menu:
+    main:
+      - name: Our mission
+        url: '#mission'
+        weight: 10
+      - name: Programs
+        url: '#programs'
+        weight: 20
+      - name: Blog
+        url: '#posts'
+        weight: 30
+      - name: Contact
+        url: '#contact'
+        weight: 40
+      - name: Donate
+        url: 'donate/'
+        weight: 50
 # Uncomment the lines below to configure your website in a second language.
 #zh:
 #  languageCode: zh-Hans

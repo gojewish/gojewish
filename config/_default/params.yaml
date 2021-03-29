@@ -6,54 +6,53 @@
 # Appearance
 
 theme: minimal
-day_night: true
+day_night: false
 font: ''
 font_size: L
 
 # SEO
 
-site_type: Person
+site_type: FundingScheme
 local_business_type: ''
-org_name: ''
-description: ''
+org_name: 'goJewish.eu'
+description: 'Support the Jewish Community today! Financial donations of any size help fund our programs.'
 twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: philantropy@jewish.ee
+phone: '+3725555920'
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: Karu 16
+  city: Tallinn
+  region: Harjumaa
+  postcode: '10120'
+  country: Estonia
+  country_code: EE
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+  latitude: '59.4387207'
+  longitude: '24.7645043'
+#directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+#office_hours:
+#  - ''
+appointment_url: ''
 contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+# - icon: twitter
+#   icon_pack: fab
+#   name: Twitter
+#   link: 'https://twitter.com/JewishGo'
+#  - icon: skype
+#    icon_pack: fab
+#    name: Skype Me
+#    link: 'skype:echo123?call'
+#  - icon: keybase
+#    icon_pack: fab
+#    name: Chat on Keybase
+#    link: 'https://keybase.io/go_jewish'
+#  - icon: comments
+#    icon_pack: fas
+#    name: Discuss on Forum
+#    link: 'https://discourse.gohugo.io'
 
 # Site header
 
@@ -68,13 +67,13 @@ main_menu:
 
 # Localization
 
-date_format: 'Jan 2, 2006'
-time_format: '3:04 PM'
-address_format: en-us
+date_format: '2 Jan 2006'
+time_format: '15:04'
+address_format: de
 
 # Site features
 
-highlight: true
+highlight: false
 highlight_languages:
   - r
 math: false
@@ -95,7 +94,7 @@ show_related:
   project: true
   publication: true
   event: true
-reading_time: true
+reading_time: false
 section_pager: false
 docs_section_pager: true
 sharing: true
@@ -106,7 +105,7 @@ copyright_license:
   allow_commercial: false
   notice: 'This work is licensed under {license}'
 abstract_length: 135
-plugins_js: []
+plugins_js: ['custom']
 avatar:
   gravatar: false
   shape: circle
@@ -145,7 +144,7 @@ map:
   api_key: ''
   zoom: 15
 marketing:
-  google_analytics: ''
+  google_analytics: 'UA-191476840-1'
   google_tag_manager: ''
   google_site_verification: ''
   baidu_site_verification: ''
@@ -153,6 +152,7 @@ marketing:
 cms:
   branch: master
   local_backend: false
+  netlify_cms: false
 icon:
   pack:
     ai: true
