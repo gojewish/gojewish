@@ -4,7 +4,7 @@ date: "2021-01-18T00:00:00+02:00"
 summary: "Donate Now! Online Donations to Jewish Community"
 type: "widget_page"
 ---
-## Support the Jewish Community today
+## Support the Jewish Community
 
 Financial donations of any size help fund our programs.
 You can  help ensure girls and boys alike receive a jewish education, which in turn  creates paths towards better living. 
