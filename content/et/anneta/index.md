@@ -1,32 +1,34 @@
 ---
-title: "We make every donation count!"
+title: "Iga annetus loeb"
 date: "2021-01-18T00:00:00+02:00"
-summary: "Donate Now! Online Donations to Jewish Community"
-
+summary: "Anneta kohe! Toeta juudi kogukonda juba täna"
+draft: false
+share: false
+commentable: false
+editable: false
 ---
-## Support the Jewish Community
+## Toeta juudi kogukonda juba täna
+Igas suuruses rahalised annetused aitavad rahastada juudi kogukonna programme. 
+Saate aidata tagada, et nii tüdrukud kui ka poisid saaksid juudi hariduse, mis omakorda loob teed parema elamise poole. 
+Kuna pandeemia mõju ohustab veel eesootavaid läbimurdeid, tähendab teie toetus praegu rohkem kui kunagi varem. Nii et palun tehke kõik endast olenev, et aidata.
 
-Financial donations of any size help fund our programs.
-You can  help ensure girls and boys alike receive a jewish education, which in turn  creates paths towards better living. 
-You cah help war veterans and victims of ghettos.
-With the pandemic's impact jeopardizing the breakthroughs yet to come, your support means more now than ever before. So please do all you can to help right away.
 
 
 <div id="donations_form" class="mkdf-form" style="position:relative!important;font-size:14px!important;font-family:Arial, Helvetica, sans-serif!important;display: inline-block!important;">
 <input id="donations_tabs_1" type="radio" name="donations_tabs" value="0" style="font-size:14px!important;font-family:'Titillium Web', Arial, Helvetica, sans-serif!important;display:none!important;" onclick="switchTab()" checked="true">
-<label for="donations_tabs_1" id="mkdf.one.time" style="position:relative!important;top:1px!important;margin-right:5px!important;margin-bottom: 0px!important;padding-top:12px!important;padding-bottom:12px!important;padding-right:20px!important;padding-left:20px!important;font-weight:600!important;font-size:14px!important;line-height:14px!important;height:14px!important;text-align:center!important;border-left-width:1px!important;border-left-style:solid!important;border-left-color:#C6C6C6!important;border-right-width:1px!important;border-right-style:solid!important;border-right-color:#C6C6C6!important;border-top-width:1px!important;border-top-style:solid!important;border-top-color:#C6C6C6!important;border-top-left-radius:10px!important;border-top-right-radius:10px!important;background-color:#E3E3E3!important;background-image:none!important;background-repeat:repeat!important;background-position:top left!important;background-attachment:scroll!important;float: none!important;box-sizing: content-box!important;display:inline-block!important;">One-time donation</label>
+<label for="donations_tabs_1" id="mkdf.one.time" style="position:relative!important;top:1px!important;margin-right:5px!important;margin-bottom: 0px!important;padding-top:12px!important;padding-bottom:12px!important;padding-right:20px!important;padding-left:20px!important;font-weight:600!important;font-size:14px!important;line-height:14px!important;height:14px!important;text-align:center!important;border-left-width:1px!important;border-left-style:solid!important;border-left-color:#C6C6C6!important;border-right-width:1px!important;border-right-style:solid!important;border-right-color:#C6C6C6!important;border-top-width:1px!important;border-top-style:solid!important;border-top-color:#C6C6C6!important;border-top-left-radius:10px!important;border-top-right-radius:10px!important;background-color:#E3E3E3!important;background-image:none!important;background-repeat:repeat!important;background-position:top left!important;background-attachment:scroll!important;float: none!important;box-sizing: content-box!important;display:inline-block!important;">Ühekordne annetus</label>
 <input id="donations_tabs_2" type="radio" name="donations_tabs" value="1" style="font-size:14px!important;font-family:Arial, Helvetica, sans-serif!important;display:none!important;" onclick="switchTab()">
-<label for="donations_tabs_2" id="mkdf.recurring" style="position:relative!important;top:1px!important;margin-right:5px!important;margin-bottom: 0px!important;padding-top:12px!important;padding-bottom:12px!important;padding-right:20px!important;padding-left:20px!important;font-weight:600!important;font-size:14px!important;line-height:14px!important;height:14px!important;text-align:center!important;border-left-width:1px!important;border-left-style:solid!important;border-left-color:#C6C6C6!important;border-right-width:1px!important;border-right-style:solid!important;border-right-color:#C6C6C6!important;border-top-width:1px!important;border-top-style:solid!important;border-top-color:#C6C6C6!important;border-top-left-radius:10px!important;border-top-right-radius:10px!important;background-color:#E3E3E3!important;background-image:none!important;background-repeat:repeat!important;background-position:top left!important;background-attachment:scroll!important;float: none!important;box-sizing: content-box!important;display:inline-block!important;">Donate monthly</label>
+<label for="donations_tabs_2" id="mkdf.recurring" style="position:relative!important;top:1px!important;margin-right:5px!important;margin-bottom: 0px!important;padding-top:12px!important;padding-bottom:12px!important;padding-right:20px!important;padding-left:20px!important;font-weight:600!important;font-size:14px!important;line-height:14px!important;height:14px!important;text-align:center!important;border-left-width:1px!important;border-left-style:solid!important;border-left-color:#C6C6C6!important;border-right-width:1px!important;border-right-style:solid!important;border-right-color:#C6C6C6!important;border-top-width:1px!important;border-top-style:solid!important;border-top-color:#C6C6C6!important;border-top-left-radius:10px!important;border-top-right-radius:10px!important;background-color:#E3E3E3!important;background-image:none!important;background-repeat:repeat!important;background-position:top left!important;background-attachment:scroll!important;float: none!important;box-sizing: content-box!important;display:inline-block!important;">Püsiannetus</label>
 <input id="mkdf.gateway.url" name="mkdf.gateway.url" type="hidden" value="https://payment.maksekeskus.ee">
 <input id="mkdf.project.id" type="hidden" name="mkdf.project.id" value="dcc4e097-8bc8-4682-b61e-606519348e27">
-<input id="mkdf.locale" type="hidden" name="mkdf.locale" value="en">
-<input id="mkdf.country" type="hidden" name="mkdf.country" value="EN">
+<input id="mkdf.locale" type="hidden" name="mkdf.locale" value="et">
+<input id="mkdf.country" type="hidden" name="mkdf.country" value="EE">
 <div class="mkdf-containter" style="border-width:1px!important;border-style:solid!important;border-color:#C6C6C6!important;border-radius:15px!important;border-top-left-radius:0!important;overflow:hidden!important;box-sizing: content-box!important;">
 <div id="donations_tabs_1_content" class="donations_tabs_content">
 <div id="donations_content_1" class="mkdf-content" style="padding-top:15px!important;padding-bottom:15px!important;padding-right:15px!important;padding-left:15px!important;border-bottom-width:6px!important;border-bottom-style:solid!important;border-bottom-color:#F4EBB9!important;box-sizing: content-box!important;">
 <div class="mkdf-form-items" style="padding-top:25px!important;">
-<div id="mkdf.donate.money" class="mkdf-label" style="padding-bottom:10px!important;font-weight:600!important;">I donate money</div>
-<div id="mkdf.donate.sum.notice" class="mkdf-description" style="padding-bottom:8px!important;font-weight:400!important;">Select the donation amount</div>
+<div id="mkdf.donate.money" class="mkdf-label" style="padding-bottom:10px!important;font-weight:600!important;"> Annetan raha </div>
+<div id="mkdf.donate.sum.notice" class="mkdf-description" style="padding-bottom:8px!important;font-weight:400!important;"> Vali annetuse summa või kirjuta sobiv summa lahtrisse </div>
 <div id="donationAmounts" class="mkdf-form-items-horizontal">
 <div class="mkdf-form-item mkdf-form-item-button" style="display:inline-block!important" id="donations_sum_0-div">
 <input id="donations_sum_0" type="radio" required name="donations_sum" style="font-size:14px!important;font-family:Arial, Helvetica, sans-serif!important;display:none!important;" onchange="changeDonationAmount(this)" value="20.00">
@@ -43,31 +45,33 @@ With the pandemic's impact jeopardizing the breakthroughs yet to come, your supp
 <div id="custom-amount-block" class="mkdf-form-item mkdf-form-item-labeled" style="padding-left:15px!important;display:inline-block!important;">
 <input id="donations_sum_write" type="radio" value="custom" required name="donations_sum" style="font-size:14px!important;font-family:Arial, Helvetica, sans-serif!important;display:none!important;" onchange="changeDonationAmount(this)">
 <label for="donations_sum_write" onclick="document.getElementById('donations_sum_number').focus();" style="height: 25px!important;float: none!important;box-sizing: content-box!important;">
-<span id="mkdf.donate.sum.write">other amount:</span>
+<span id="mkdf.donate.sum.write">muu summa</span>
 <input id="donations_sum_number" onclick="document.getElementById('donations_sum_write').click()" type="text" name="donations_sum_number" style="font-family:Arial, Helvetica, sans-serif!important;display:inline-block!important;border-width:1px!important;border-style:solid!important;border-color:#C6C6C6!important;border-radius:10px!important;padding-top:8px!important;padding-bottom:8px!important;padding-right:12px!important;padding-left:12px!important;position:relative!important;max-width:100px!important;font-size:18px!important;line-height:23px!important;height:23px!important;box-sizing:content-box!important;" required>
 </label>
 </div>
 </div>
 </div>    <div class="mkdf-form-items" style="padding-top:25px!important;">
-<div id="mkdf.donator.data" class="mkdf-label" style="padding-bottom:10px!important;font-weight:600!important;">My details</div>
+<div id="mkdf.donator.data" class="mkdf-label" style="padding-bottom:10px!important;font-weight:600!important;"> Minu andmed </div>
 <div id="customer_data" class="mkdf-form-items-block" style="display:inline-block!important;border-width:1px!important;border-style:solid!important;border-color:#C6C6C6!important;border-radius:10px!important;padding-top:0!important;padding-bottom:0!important;padding-right:10px!important;padding-left:10px!important;box-sizing: content-box!important;">
 <div class="mkdf-form-item">
-<input id="mkdf.donator.full.name" type="text" onfocusout="validate(this);" pattern="^\s*[^\s]+\s+[^\s]+.*$" name="mkdf.donator.full.name" placeholder="Name" style="font-size:14px!important;font-family:Arial, Helvetica, sans-serif!important;display:inline-block!important;border-style:solid!important;border-color:#C6C6C6!important;width:200px!important;max-width:270px!important;border-width:0!important;border-bottom-width:1px!important;border-bottom-style:solid!important;border-bottom-color:#C6C6C6!important;border-radius:0!important;padding-top:6px!important;padding-bottom:6px!important;padding-right:0!important;padding-left:0!important;outline:none!important;box-sizing: content-box!important;">
-<div id="mkdf.donator.full.name.invalid" class="invalid-feedback" style="color:red!important;display:none!important;">Please check your details</div>
+<input id="mkdf.donator.full.name" type="text" onfocusout="validate(this);" pattern="^\s*[^\s]+\s+[^\s]+.*$" name="mkdf.donator.full.name" placeholder="Nimi" style="font-size:14px!important;font-family:Arial, Helvetica, sans-serif!important;display:inline-block!important;border-style:solid!important;border-color:#C6C6C6!important;width:200px!important;max-width:270px!important;border-width:0!important;border-bottom-width:1px!important;border-bottom-style:solid!important;border-bottom-color:#C6C6C6!important;border-radius:0!important;padding-top:6px!important;padding-bottom:6px!important;padding-right:0!important;padding-left:0!important;outline:none!important;box-sizing: content-box!important;">
+<div id="mkdf.donator.full.name.invalid" class="invalid-feedback" style="color:red!important;display:none!important;"> Palun kontrollige oma ees- ja perekonnanime </div>
 </div>
 <div class="mkdf-form-item">
-<input id="mkdf.donator.personCode" type="text" name="mkdf.donator.personCode" placeholder="Personal code" style="font-size:14px!important;font-family:Arial, Helvetica, sans-serif!important;display:inline-block!important;border-style:solid!important;border-color:#C6C6C6!important;width:200px!important;max-width:270px!important;border-width:0!important;border-bottom-width:1px!important;border-bottom-style:solid!important;border-bottom-color:#C6C6C6!important;border-radius:0!important;padding-top:6px!important;padding-bottom:6px!important;padding-right:0!important;padding-left:0!important;outline:none!important;box-sizing: content-box!important;">
+<input id="mkdf.donator.personCode" type="text" name="mkdf.donator.personCode" placeholder="Isikukood" style="font-size:14px!important;font-family:Arial, Helvetica, sans-serif!important;display:inline-block!important;border-style:solid!important;border-color:#C6C6C6!important;width:200px!important;max-width:270px!important;border-width:0!important;border-bottom-width:1px!important;border-bottom-style:solid!important;border-bottom-color:#C6C6C6!important;border-radius:0!important;padding-top:6px!important;padding-bottom:6px!important;padding-right:0!important;padding-left:0!important;outline:none!important;box-sizing: content-box!important;">
 </div>
 <div class="mkdf-form-item">
 <input id="mkdf.donator.email" type="email" onfocusout="validate(this);" name="mkdf.donator.email" placeholder="E-mail" style="font-size:14px!important;font-family:'Titillium Web', Arial, Helvetica, sans-serif!important;display:inline-block!important;border-style:solid!important;border-color:#C6C6C6!important;width:200px!important;max-width:270px!important;border-width:0!important;border-bottom-width:0px!important;border-bottom-style:solid!important;border-bottom-color:#C6C6C6!important;border-radius:0!important;padding-top:6px!important;padding-bottom:6px!important;padding-right:0!important;padding-left:0!important;outline:none!important;box-sizing: content-box!important;">
-<div id="mkdf.donator.email.invalid" class="invalid-feedback" style="color:red!important;display:none!important;">Please check your e-mail</div></div></div></div>
+<div id="mkdf.donator.email.invalid" class="invalid-feedback" style="color:red!important;display:none!important;"> Palun kontrollige e-mail addressi </div></div></div></div>
 <div class="mkdf-form-items" style="padding-top:25px!important;">
-<div class="mkdf-label mkdf.payment" style="padding-bottom:4px!important;font-weight:600!important;">Donate</div>
-<div class="mkdf-description mkdf.payment.description" style="padding-bottom:4px!important;font-weight:400!important;">Make a donation, choose credit card</div>
+<div class="mkdf-label mkdf.payment" style="padding-bottom:4px!important;font-weight:600!important;"> Vormistamine </div>
+<div class="mkdf-description mkdf.payment.description" style="padding-bottom:4px!important;font-weight:400!important;"> Vormista annetus 
+krediitkaardiga</div>
 <div class="mkdf-form-items-horizontal mkdf-form-items-banklinks" style="margin-right:-5px!important;margin-left:-5px!important;">
 <div class="mkdf-form-item mkdf-form-item-image banklink" style="display:inline-block!important;"><input id="VISA-EVERYPAY" type="radio" name="donations_bank" style="font-size:14px!important;font-family:Arial, Helvetica, sans-serif!important;display:none!important;" onchange="changeBankLink(this)" value="EVERYPAY"> <label for="VISA-EVERYPAY" style="display:inline-block!important;border-width:4px!important;border-style:solid!important;border-color:#FFF!important;padding-bottom:0!important;box-sizing: content-box!important;"><img src="https://www.gojewish.eu/media/visa.png" alt="EVERYPAY" style="display:block!important;max-width:90px!important;"></label></div>
 <div class="mkdf-form-item mkdf-form-item-image banklink" style="display:inline-block!important;"><input id="MASTERCARD-EVERYPAY" type="radio" name="donations_bank" style="font-size:14px!important;font-family:Arial, Helvetica, sans-serif!important;display:none!important;" onchange="changeBankLink(this)" value="EVERYPAY"> <label for="MASTERCARD-EVERYPAY" style="display:inline-block!important;border-width:4px!important;border-style:solid!important;border-color:#FFF!important;padding-bottom:0!important;box-sizing: content-box!important;"><img src="https://www.gojewish.eu/media/mastercard.png" alt="EVERYPAY" style="display:block!important;max-width:90px!important;"></label></div>
-<div class="mkdf-description mkdf.payment.description" style="padding-bottom:4px!important;font-weight:400!important;">Make a donation, choose your bank</div>
+<div class="mkdf-description mkdf.payment.description" style="padding-bottom:4px!important;font-weight:400!important;"> Vormista annetus 
+valides eelistatud panga </div>
 <div class="mkdf-form-item mkdf-form-item-image banklink" style="display:inline-block!important;">
 <input id="EE_SWED" type="radio" name="donations_bank" style="font-size:14px!important;font-family:Arial, Helvetica, sans-serif!important;display:none!important;" onchange="changeBankLink(this)" value="EE_SWED">
 <label for="EE_SWED" style="display:inline-block!important;border-width:4px!important;border-style:solid!important;border-color:#FFF!important;padding-bottom:0!important;box-sizing: content-box!important;"><img src="https://www.gojewish.eu/media/swedbank.png" alt="EE_SWED" style="display:block!important;max-width:90px!important;"></label>
@@ -95,12 +99,12 @@ With the pandemic's impact jeopardizing the breakthroughs yet to come, your supp
 <div id="donations_tabs_2_content" class="donations_tabs_content">
 <div id="donations_content_2" class="mkdf-content" style="padding:15px!important;border-bottom-width:6px!important;border-bottom-style:solid!important;border-bottom-color:#F4EBB9!important;box-sizing: content-box!important;">
 <div class="mkdf-form-items" style="padding-top:25px!important;">
-<div class="mkdf-label mkdf.project" style="padding-bottom:10px!important;font-weight:600!important;">Supported project</div>
+<div class="mkdf-label mkdf.project" style="padding-bottom:10px!important;font-weight:600!important;"> Toetatav projekt </div>
 <select class="project-select" onchange="selectDropdownChange('recurring')" style="font-family:Arial, Helvetica, sans-serif!important;display:inline-block!important;width:100%!important;min-width:300px!important;max-width:480px!important;font-size:18px!important;line-height:25px!important;font-weight:300!important;color:#444!important;padding-top:8px!important;padding-bottom:8px!important;padding-right:40px!important;padding-left:8px!important;box-sizing:border-box!important;margin-top:0!important;margin-bottom:0!important;margin-right:0!important;margin-left:0!important;border-width:1px!important;border-style:solid!important;border-color:#C6C6C6!important;border-radius:10px!important;-moz-appearance:none!important;-webkit-appearance:none!important;appearance:none!important;background-color:#FFF!important;background-image:url('data:image/svg+xml,%3Csvg id=\'Layer_1\' data-name=\'Layer 1\' xmlns=\'http://www.w3.org/2000/svg\' viewBox=\'0 0 20 8.84\'%3E%3Cdefs%3E%3Cstyle%3E.cls-1%7Bfill:%235c5b5b!important;%7D%3C/style%3E%3C/defs%3E%3Cpath class=\'cls-1\' d=\'M8.84,9.84,0,1H3L9.43,7.62h.13L16.87,1H20L10.05,9.84Z\' transform=\'translate(0.04 -1)\'/%3E%3C/svg%3E')!important;background-repeat:no-repeat, repeat!important;background-position:right 0.5em top 50%, 0 0!important;background-size:0.75em auto, 100%!important;">
 <option data-amount0="20.00" data-amount1="50.00" data-amount2="100.00" data-one-time data-recurring data-custom-amount data-project-id="dcc4e097-8bc8-4682-b61e-606519348e27" selected="true">goJewish.eu</option></select></div>
 <div class="mkdf-form-items" style="padding-top:25px!important;">
-<div class="mkdf-label mkdf.payment" style="padding-bottom:10px!important;font-weight:600!important;">Donate</div>
-<div class="mkdf-description mkdf.payment.description" style="padding-bottom:8px!important;font-weight:400!important;">Donate now, choose your bank</div>
+<div class="mkdf-label mkdf.payment" style="padding-bottom:10px!important;font-weight:600!important;"> Vormistamine </div>
+<div class="mkdf-description mkdf.payment.description" style="padding-bottom:8px!important;font-weight:400!important;"> Vormista annetus valides eelistatud panga </div>
 <div class="mkdf-form-items-horizontal mkdf-form-items-banklinks" style="margin-right:-5px!important;margin-left:-5px!important;">
 <div class="mkdf-form-item mkdf-form-item-image so-banklink" style="display:inline-block!important;">
 <input id="so-EE_SWED" type="radio" name="donations_bank_so" onchange="changeBankLinkSo(this);" style="font-size:14px!important;font-family:Arial, Helvetica, sans-serif!important;display:none!important;" value="EE_SWED">
@@ -121,16 +125,16 @@ With the pandemic's impact jeopardizing the breakthroughs yet to come, your supp
 </div>
 </div>
 
-### Questions
-#### What is goJewish? 
-GoJewish  is philantropic project that strengthens the  Jewish community, especially during harsh COVID-19 times, by providing humanitarian support.
-#### What is goJewish Mission?
-GoJewish strengthens Jewish Community, especially during COVID-19, providing humanitarian support. We collect donations, engage volunteers, collaborate with partners and deploy resources to achieve this mission.
-#### Is my donation secure? 
-Absolutely. The security and confidentiality of your information is our highest  priority. We use industry-standard SSL (secure socket layer) technology  to protect your information and provide a safe and secure environment  for online donations. We will not sell, trade or share your personal  information with anyone else, nor send donor mailings on behalf of other organizations, and we will only share personal information if you have  given us specific permission to do so.
-#### How can I contact you?
-Please send us an email to: philantropy@jewish.ee – or you can give us a call at: +372 5555 9200    			  			
-#### How do I specify a donation amount that is not already listed?
-You can specify any donation amount by simply clicking in the empty field next to the "or choose your amount", in which you enter your donation amount.
-#### How will my donation appear on my credit card statement?
-On your credit card statement, your gift will appear as: gojewish.eu    
+### Küsimused
+#### Mis on goJewish?
+GoJewish on heategevusprojekt, mis tugevdab juudi kogukonda, eriti COVID-19 rasketel aegadel, läbi humanitaarabi.
+#### Mis on GoJewishi missioon?
+GoJewish tugevdab Eesti Juudi Kogukonda, eriti COVID-19 ajal, pakkudes humanitaarabi. Selle missiooni saavutamiseks kogume annetusi, kaasame vabatahtlikke, teeme koostööd partneritega ja kasutame ressursse.
+#### Kas minu annetus on ohutu?
+Absoluutselt. Teie prioriteet on teie teabe turvalisus ja konfidentsiaalsus. Kasutame teie teabe kaitsmiseks ning veebiannetuste jaoks turvalise ja turvalise keskkonna pakkumiseks tööstusharu standardit SSL (Secure Socket Layer). Me ei müü, vahetata ega edasta teie isiklikke andmeid kellelegi teisele ega saadeta annetatud kirju teiste organisatsioonide nimel ning edastame isikuandmeid ainult siis, kui olete meile selleks konkreetse loa andnud.
+#### Kuidas ma saan teiega ühendust võtta?
+Saatke meile e-kiri: philantropy@jewish.ee - või helistage meile telefonil +372 5555 9200
+#### Kuidas määrata annetuse summa, mida pole veel loetletud? 
+Annetuse summa saate täpsustada, klõpsates lihtsalt tühjal väljal kirje "või kirjuta sobiv summa" kõrval, kuhu sisestate annetuse summa.
+#### Kuidas minu annetus krediitkaardi väljavõttele ilmub?
+Teie krediitkaardi väljavõttel kuvatakse teie annetus järgmiselt: gojewish.eu 
